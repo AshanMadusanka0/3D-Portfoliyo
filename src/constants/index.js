@@ -120,10 +120,10 @@ const experiences = [
     company_name: "Projects",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "FRONTEND-DEVELOPMENT",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using React js,java Script,Teldwind Css, and other related technologies.",
+      "Collaborating with cross-functional teams including designers and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -133,11 +133,11 @@ const experiences = [
     company_name: "Projects",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "BACKEND-DEVELOPMENT",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developing and maintaining web applications using ExpressJS,MongoDB and other related technologies.",
+      "Collaborating with cross-functional teams including designers and other developers to create high-quality products.",
+      "Built and optimized backend services using that technologies, ensuring robust performance, secure data handling, and seamless integration with frontend applications.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -146,10 +146,10 @@ const experiences = [
     company_name: "Projects",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "MOBILE-APPLICATION-DEVELOPMENT",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using React Native and other related technologies.",
+      "Collaborating with cross-functional teams including designers and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -159,12 +159,12 @@ const experiences = [
     company_name: "Projects",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "UI-UX DESIGN",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designing and maintaining user interfaces using modern UI/UX principles and design tools.",
+      "Collaborating with cross-functional teams including developers and stakeholders to deliver intuitive user experiences.",
+      "Implementing responsive layouts and ensuring accessibility across various devices and screen sizes.",
+      "PParticipating in design reviews and providing constructive feedback to enhance usability and visual appeal.",
     ],
   },
 ];
@@ -198,68 +198,174 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: " Frontend of Education LMS Website ",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      " Developed the frontend interface of a Learning Management System with course listings,instructor profiles, and student dashboards. Emphasis on educational UX design and layout clarity.",
     tags: [
       {
-        name: "react",
+        name: "Html",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Css",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Java Script",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AshanMadusanka0/Education-Website.git",
   },
   {
-    name: "Job IT",
+    name: "Travel-Booking-Website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      " Developed the frontend interface of a responsive travel booking site interface where users can search and browse travel packages. Focused on clean UI, hover effects, and mobile first responsiveness",
     tags: [
       {
-        name: "react",
+        name: "Html",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Css",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Java Script",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AshanMadusanka0/Travel-Booking-Website.git",
   },
   {
-    name: "Trip Guide",
+    name: "GSAP Web Project",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      " Created an animated, responsive landing page using GSAP animations. Focused on smooth transitions, scroll-based effects, and engaging user interaction.",
     tags: [
       {
-        name: "nextjs",
+        name: "Html",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "GSAP",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Java Script",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Tailwind Css",
+        color: "blue-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AshanMadusanka0/GSAP-Web-Project.git",
   },
+
+
+   {
+    name: " AI Image Generative Web Application",
+    description:
+      " Developed a full-stack web app that generates AI-based images using DALL·E API. user can share images on website community and explore , download AI-created visuals.",
+    tags: [
+      {
+        name: "ReactJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ExpressJS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Java Script",
+        color: "pink-text-gradient",
+      },
+
+      {
+        name: "Tailwind Css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      }
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/AshanMadusanka0/AI-Image-Generative-Web-Apllication.git",
+  },
+
+
+    {
+    name: " Cosmetic Shop Frontend / Backend",
+    description:
+      " Built a e-commerce cosmetic store with product listings , cart management, and order placement. Backend supports CRUD operations, authentication, and  database management.",
+    tags: [
+      {
+        name: "ReactJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ExpressJS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Java Script",
+        color: "pink-text-gradient",
+      },
+
+      {
+        name: "Tailwind Css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      }
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/AshanMadusanka0/Cosmetic-Shop-Backend.git",
+  },
+
+
+  {
+    name: "Flutter To-Do Application",
+    description:
+      " Built a cross-platform mobile app using Flutter that helps users manage daily tasks. Includes task creation and a simple UI optimized for productivity.",
+    tags: [
+      {
+        name: "C++",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Dart",
+        color: "green-text-gradient",
+      },
+     
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/AshanMadusanka0/Flutter-ToDo-App.git",
+  },
+
+   {
+    name: "UI/UX Design for a Burgur Hut",
+    description:
+      " Designed a modern, user-friendly interface for a burger restaurant's digital ordering platform. Included interactive prototypes and clean ui/ux design",
+    tags: [
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+      
+    ],
+    image: tripguide,
+    source_code_link: "https://www.linkedin.com/posts/ashan-edirisinghe-a92144262_uiuxdesign-figma-burgerhut-activity-7356419282789941250-TgNt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBy0Q4Bf82gSQKQMFo5tqmbT19G-E45ONg",
+  },
+
+
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };
