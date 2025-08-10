@@ -164,7 +164,7 @@ const experiences = [
       "Designing and maintaining user interfaces using modern UI/UX principles and design tools.",
       "Collaborating with cross-functional teams including developers and stakeholders to deliver intuitive user experiences.",
       "Implementing responsive layouts and ensuring accessibility across various devices and screen sizes.",
-      "PParticipating in design reviews and providing constructive feedback to enhance usability and visual appeal.",
+      "Participating in design reviews and providing constructive feedback to enhance usability and visual appeal.",
     ],
   },
 ];
@@ -173,7 +173,7 @@ const testimonials = [
   {
     testimonial:
       "Bachelor of Science (Hons) in Computer Science",
-    name: "------------",
+    // name: "------------",
     designation: "NSBM Green University",
     
     // image: "https://www.pngall.com/wp-content/uploads/8/College-PNG-Pic.png",
@@ -181,7 +181,7 @@ const testimonials = [
   {
     testimonial:
       "A/L Science Stream (2018-2020)",
-    name: "------------",
+    // name: "------------",
     designation: "K/Dharmaraja College",
     
     // image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -189,7 +189,7 @@ const testimonials = [
   {
     testimonial:
       "Ordinary Level - 2017",
-    name: "------------",
+    // name: "------------",
     designation: "K/Gurudeniya M.V",
     
     // image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -215,7 +215,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: jobit,
     source_code_link: "https://github.com/AshanMadusanka0/Education-Website.git",
   },
   {
@@ -261,7 +261,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link: "https://github.com/AshanMadusanka0/GSAP-Web-Project.git",
   },
 
@@ -345,7 +345,7 @@ const projects = [
       },
      
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link: "https://github.com/AshanMadusanka0/Flutter-ToDo-App.git",
   },
 
@@ -360,7 +360,7 @@ const projects = [
       },
       
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link: "https://www.linkedin.com/posts/ashan-edirisinghe-a92144262_uiuxdesign-figma-burgerhut-activity-7356419282789941250-TgNt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBy0Q4Bf82gSQKQMFo5tqmbT19G-E45ONg",
   },
 
